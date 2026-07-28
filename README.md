@@ -19,8 +19,8 @@ Meet Tissue and Milly below 🐶🐱
 
 <table>
   <tr>
-    <td align="center"><img src="assets/tissue.jpg" width="280"><br><b>Tissue</b> 🐶</td>
-    <td align="center"><img src="assets/milly.jpg" width="280"><br><b>Milly</b> 🐱</td>
+    <td align="center"><img src="IMG_3702.HEIC" width="280"><br><b>Tissue</b> 🐶</td>
+    <td align="center"><img src="IMG_3704.HEIC" width="280"><br><b>Milly</b> 🐱</td>
   </tr>
 </table>
 
