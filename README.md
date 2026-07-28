@@ -1,16 +1,27 @@
 
 ## Hi there I'm Minyoung 👋
 
-I work as a **Physical AI Engineer** and **AI Agent Orchestrator**, and I'm working my way
-toward becoming a **Forward Deployed Engineer**.
+**Physical AI Engineer & AI Agent Orchestrator** — on my way to becoming a
+**Forward Deployed Engineer**.
 
-These days I'm deep into training VLA models on a lightweight bimanual robot to build a
-barista robot. (On the side, I'm also teaching a robot to play with Milly, our cat.)
+I think robots should take over everything boring, repetitive, and time-consuming, so that
+human ingenuity can go where it matters: the hard problems worth solving.
 
-I believe robots should take over everything boring, repetitive, and time-consuming, so that
-human ingenuity can go toward the harder problems our planet actually needs solved.
+Currently training VLA policies on a lightweight bimanual robot to build a barista robot.
+On the side, I'm teaching a robot to play with my cat, Milly.
 
-I'm usually at work from **8 AM to 6 PM KST (UTC+9)**, but my inbox is always open.
-I'm open to any kind of collaboration or feedback, so feel free to reach out.
+📫 Working hours are 8 AM–6 PM KST (UTC+9), but my inbox is always open.
+Collaborations, questions, feedback — all welcome.
 
-Below are photos of Tissue, our dog, and Milly, our cat 🐶🐱
+**Research**: neurosymbolic VLA, semantic world models, and failure recovery in bimanual manipulation.
+
+Meet Tissue and Milly below 🐶🐱
+
+<table>
+  <tr>
+    <td align="center"><img src="assets/tissue.jpg" width="280"><br><b>Tissue</b> 🐶</td>
+    <td align="center"><img src="assets/milly.jpg" width="280"><br><b>Milly</b> 🐱</td>
+  </tr>
+</table>
+
+
