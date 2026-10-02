@@ -15,12 +15,11 @@ Collaborations, questions, feedback — all welcome.
 
 **Research**: neurosymbolic VLA, semantic world models, and failure recovery in bimanual manipulation.
 
-Meet Tissue and Milly below 🐶🐱
+Meet Tissue below 🐶🐱
 
 <table>
   <tr>
     <td align="center"><img src="tissue.jpg" width="280"><br><b>Tissue</b> 🐶</td>
-    <td align="center"><img src="IMG_3704.HEIC" width="280"><br><b>Milly</b> 🐱</td>
   </tr>
 </table>
 
